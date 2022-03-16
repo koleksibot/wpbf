@@ -1,0 +1,6 @@
+TELEGRAM_BOT = "off"   # you can on or off telegram bot api
+BOT_TOKEN = ""  # fill bot token if you turn on the TELEGRAM_BOT
+CHAT_ID = ""  # fill chat id if you turn on the TELEGRAM_BOT
+XMLRPC = "on" # you can configure on or off the xmlrpc
+WPLOGIN = "on" # NOT AVAILABLE AT NOW WAIT
+WORDLIST = "password.txt"
